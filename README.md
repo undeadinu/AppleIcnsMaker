@@ -29,6 +29,6 @@ Update the GUI version
 Usage
 ===========
 
-      $python AppleIcnsMaker_GUI.python
+      $python AppleIcnsMaker_GUI.py
       
 
